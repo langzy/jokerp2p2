@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705053889084,105,获取图片验证码,200,OK,注册登录 1-1,,true,,2195,158,1,1,http://121.43.169.97:8081/common/public/verifycode1/0.12345686,105,0,54
+1705053889194,51,获取短信验证码,200,OK,注册登录 1-1,text,true,,198,326,1,1,http://121.43.169.97:8081/member/public/sendSms,51,0,0
+1705053890111,65,注册,200,OK,注册登录 1-1,text,true,,215,374,1,1,http://121.43.169.97:8081/member/public/reg,65,0,0
+1705053890177,52,登录,200,OK,注册登录 1-1,text,true,,283,318,1,1,http://121.43.169.97:8081/member/public/login,52,0,0
+1705053890230,34,是否登录,200,OK,注册登录 1-1,text,true,,182,301,1,1,http://121.43.169.97:8081/member/public/islogin,34,0,0
+1705053890265,50,实名认证,200,OK,注册登录 1-1,text,true,,235,709,1,1,http://121.43.169.97:8081/member/realname/approverealname,50,0,0
+1705053890324,95,登录-1,200,OK,登录参数化 2-1,text,true,,358,262,1,1,http://121.43.169.97:8081/member/public/login,95,0,30
+1705053890427,62,登录-2,200,OK,登录参数化 2-1,text,true,,201,325,1,1,http://121.43.169.97:8081/member/public/login,62,0,30
+1705053890490,73,登录-3,200,OK,登录参数化 2-1,text,true,,195,336,1,1,http://121.43.169.97:8081/member/public/login,73,0,35
+1705053890564,69,登录-4,200,OK,登录参数化 2-1,text,true,,198,330,1,1,http://121.43.169.97:8081/member/public/login,69,0,33
+1705053890634,78,登录-5,200,OK,登录参数化 2-1,text,true,,247,335,1,1,http://121.43.169.97:8081/member/public/login,78,0,34
